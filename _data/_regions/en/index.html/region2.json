@@ -1,1 +1,1 @@
-[{"_template":"href","url":"qwe","name":"werty"},{"_template":"html","content":"<p>Sample HTML</p>"}]
+[{"_template":"href","url":"qwe","name":"werty"},{"_template":"html","content":"<p>Sample HTML</p>\n<p>&nbsp;</p>\n<p><img src=\"http://dev---basic-test-232.lvh.me:3000/assets/images/boat_day.jpg\" width=\"194\" height=\"129\" /></p>\n<p><img src=\"https://s3.amazonaws.com/cdn.dev-traveltripper.info/282_393_232/media/cinqueterre.jpg\" width=\"196\" height=\"294\" /></p>","rendered_height":500}]
