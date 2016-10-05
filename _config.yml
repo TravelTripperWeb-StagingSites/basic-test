@@ -3,4 +3,4 @@ gems:
 - jekyll-sitemap
 
 default_lang: 'en'
-languages: ['en']
+locales: ['en']
