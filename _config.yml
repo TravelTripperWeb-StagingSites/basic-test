@@ -3,4 +3,10 @@ gems:
 - jekyll-sitemap
 
 default_lang: 'en'
-locales: ['en']
+languages: ['en']
+
+exclude:
+  - 'sitemap.json'
+  
+keep_files: ['assets']
+rsync_copy: ['_assets']
